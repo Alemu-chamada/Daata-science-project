@@ -1,4 +1,4 @@
-# Data Science Task 3
+# Data Scienceprojects
 
 This repository contains work for **Data Science Task 3**. It is organized into two separate folders for clarity:
 
